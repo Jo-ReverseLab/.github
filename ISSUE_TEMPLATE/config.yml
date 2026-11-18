@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security problem
+    url: https://github.com/Jo-ReverseLab/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately with "Report a vulnerability" in the Security tab, not as a public issue.
+  - name: Question or help
+    url: https://github.com/Jo-ReverseLab/.github/blob/main/SUPPORT.md
+    about: Where to ask and what to check first.
