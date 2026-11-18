@@ -2,7 +2,7 @@
 
 Thanks for taking the time to contribute!
 
-This applies to all projects by Ben-ReverseLab unless a repository has its own guide.
+This applies to all projects by Jo-ReverseLab unless a repository has its own guide.
 
 ## Ways to help
 
@@ -18,7 +18,7 @@ For anything larger than a small fix, please open an issue first so we can agree
 
 See the **Installation** section of the project's README. Most projects can be started with a few commands after cloning:
 
-    git clone https://github.com/Ben-ReverseLab/<repository>
+    git clone https://github.com/Jo-ReverseLab/<repository>
     cd <repository>
 
 ## Pull requests
